@@ -1,8 +1,5 @@
 Once upon a time there was a 
 Narwhal swimming in the ocean
 Causing a commotion
-<<<<<<< HEAD
-The Narwhal was friends with an elf named Buddy
-=======
-in the deep ocean
->>>>>>> aecf177a6e22c089ac9339d80fe9a0c648c517aa
+The Narwhal was friends with an elf named Buddy in the deep ocean
+The Narwhal then realized that Buddy can't breathe underwater
